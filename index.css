@@ -1,0 +1,31 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 25px;
+}
+.portugues{
+    color: rgb(120, 120, 120);
+}
+.matematica{
+    color: rgb(120, 120, 120);
+}
+.biologia{
+    color: rgb(120, 120, 120)
+}
+.fisica{
+    color: rgb(120, 120, 120)
+}
+#quimica{
+    color: rgb(120, 120, 120)
+}
+#historia{
+    color: rgb(120, 120, 120)
+}
+.rodape{
+    font-size: 75%;
+    text-align: center;
+}
+section{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
